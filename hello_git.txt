@@ -1,0 +1,5 @@
+hello git
+今天天气不错
+心情却很糟糕
+my first git
+goodluck
